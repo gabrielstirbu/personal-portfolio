@@ -4,6 +4,8 @@
 
 Welcome to my portfolio! Here you can learn more about me, explore my work, and get in touch. Please feel free to navigate through the sections using the links provided in the navigation menu.
 
+![Screenshot 2023-10-10 at 20 16 05](https://github.com/gabrielstirbu/personal-portfolio/assets/145403373/1746449e-0116-4a32-92ee-8df6717cd3fb)
+
 ## Navigation
 
 - About
@@ -15,6 +17,7 @@ Welcome to my portfolio! Here you can learn more about me, explore my work, and 
 I'm Gabriel Stirbu, and my professional journey commenced at the age of 19 when I embarked on my career as a Back Office Agent. In this role, I cultivated my communication skills and honed my ability to adeptly resolve a diverse range of customer inquiries and issues.
 
 ## Work
+![Uploading Screenshot 2023-10-10 at 20.36.50.png…]()
 
 ## Project 1 - Bootcamp Prework
 
@@ -36,6 +39,7 @@ Project 4 - TBC
 ## Contact Me
 
 If you'd like to get in touch with me, feel free to reach out using the following contact information:
+![Screenshot 2023-10-10 at 20 36 50](https://github.com/gabrielstirbu/personal-portfolio/assets/145403373/db6f6774-1210-4af7-9b4c-0d49f0cb3335)
 
 Phone: +440774*******
 Email: gabriel.stirbu@hotmail.com
