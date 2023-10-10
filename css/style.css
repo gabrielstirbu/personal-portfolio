@@ -65,7 +65,7 @@ nav a {
 
 /* Hero banner styles */
 .hero-banner {
-  background-image: url('/images/photo-1506765515384-028b60a970df.jpeg');
+  background-image: url('../images/photo-1506765515384-028b60a970df.jpeg');
   background-size: cover;
   background-position: center;
   height: 400px;
